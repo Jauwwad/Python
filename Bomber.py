@@ -11,4 +11,4 @@ for i in range (n):
     py.press("Enter")
     count = count + 1
 
-    
+    print("ok")
